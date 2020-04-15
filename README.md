@@ -1,2 +1,2 @@
 # myconfig
-spring-clould-config11111 ccc bbb 2222
+spring-clould-config11111
